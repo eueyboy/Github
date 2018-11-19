@@ -1,4 +1,5 @@
 # Github
+<<<<<<< HEAD
 
 Hello World
 
@@ -10,3 +11,5 @@ dsfsdf
 
 
 Monday tuesday
+=======
+>>>>>>> parent of ff4b332... added
